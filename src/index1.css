@@ -1,0 +1,477 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* --- Services--- */
+.app{
+  margin: 0;
+  padding: 0;
+}
+.hr{
+  color: #B6B6B6;
+}
+
+.bg-black{
+  background: #000 ;
+}
+.bg-white{
+  background: #000 ;
+}
+.service-title-header{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+}
+
+.service-title-header{
+  
+  font-size: 72px;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.service-title{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: uppercase;
+  color: #B6B6B6;
+}
+
+.service-desc{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  color: #FFFFFF;
+  
+}
+/* ---Workflow--- */
+.workflow-title-header{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.workflow-title{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: uppercase;
+  
+  color: #000000;
+}
+.workflow-desc{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  color: #060606;
+}
+.workflow-footer{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+
+/* ---About--- */
+.about-title{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: #000000;
+}
+.about-desc{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #FFFFFF;
+}
+
+/* ---Portofolio--- */
+.app-title-header{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.app-header{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: uppercase;
+  color: #B6B6B6;
+  opacity: 0.95;
+}
+
+.app-title{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 100%;
+  color: #000000;
+  opacity: 0.95;
+}
+
+.app-list{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 180%;
+  color: #000000;
+}
+
+
+/* ---Teams--- */
+.team-title{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.bg-team{
+  background: #FFFE55;
+}
+
+.team-name{
+  font-family: 'Neue Montreal';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  text-transform: uppercase;
+  color: #060606;
+  margin: 0;
+}
+
+.team-position{
+  font-family: 'Neue Montreal';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 130%;
+  text-transform: uppercase;
+  color: #060606;
+  margin: 0;
+}
+
+/* ---Value--- */
+.value-title{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 139px;
+  display: flex;
+  align-items: flex-end;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.value-body{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 130%;
+  display: flex;
+  align-items: flex-end;
+  color: #C4C4C4;
+}
+
+.value-desc{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 130%;
+  color: #C4C4C4;
+}
+
+
+
+/* ---COntact--- */
+.contact-title{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.contact-body{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.contact-address{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.contact-number{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.contact-email{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.contact-sosmed{
+  font-family: 'Neue Montreal';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 140%;
+  text-transform: uppercase;
+  color: #000000;
+  text-decoration: none !important;
+}
+
+.button-s{
+  background: #FFFE55;
+}
+
+.button-s:hover{
+  background: #fff;
+}
+
+.button-submit{
+  width:120px;
+}
+
+.form-hide{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background: none;
+  border: none;
+  border-bottom: 2px solid rgb(209, 206, 206);
+}
+
+.form-hide label{
+  color:rgb(209, 206, 206);
+}
+
+/* ---Footer--- */
+.bg-footer{
+  background: #FFFE55;
+}
+
+.logo-footer{
+  width: 30px;
+  height: 100%;
+}
+
+@media (min-width:576px){
+  .logo-footer{
+    width: 40px;
+  }
+  .link-body{
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+  }
+  
+  .follow-body{
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+  }
+}
+
+@media (min-width:768px){
+  .logo-footer{
+    width: 100px;
+  }
+}
+
+@media (min-width:992px){
+  .logo-footer{
+    width: 120px;
+  }
+}
+
+@media (min-width:1200px){
+  .logo-footer{
+    width: 144px;
+  }
+}
+
+.text-vertical{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #000000;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  margin: 0;
+  padding: 0;
+}
+
+.link-title{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.link-body{
+  font-family: 'Gujarati MT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #1B1B1B;
+  text-decoration: none !important;
+}
+
+.follow-title{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.follow-body{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+  text-decoration: none !important;
+}
+
+.newsletter-title{
+  font-family: 'Neue Montreal';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.form-setting {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background: none;
+  border: none;
+  border-bottom: 2px solid #000;
+}
+
+.email{
+  font-family: 'Neue Montreal';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 140%;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.5);
+}
+.newsletter-footer{
+  font-family: 'Neue Montreal';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.newsletter-footer a{
+  color: #000; ;
+}
+
+.footer-left{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.footer-right{
+  font-family: 'Neue Montreal';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 140%;
+  color: #000000;
+}

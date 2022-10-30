@@ -1,0 +1,10 @@
+export { default as About } from "./About";
+export { default as Contact } from "./Contact";
+export { default as Dashboard } from "./Dashboard";
+export { default as Footer } from "./Footer";
+export { default as Portfolio } from "./Portfolio";
+export { default as Services } from "./Services";
+export { default as Team } from "./Team";
+export { default as Value } from "./Value";
+export { default as Workflow } from "./Workflow";
+export { default as NavigationBar } from "./NavigationBar";
