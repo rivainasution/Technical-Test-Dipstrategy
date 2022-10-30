@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Technical-Test-Dipstrategy/static/css/main.679e9880.css",
+    "main.js": "/Technical-Test-Dipstrategy/static/js/main.c489de37.js",
+    "static/media/services-3.png": "/Technical-Test-Dipstrategy/static/media/services-3.95eec07a8375fe8b1918.png",
+    "static/media/workflow.png": "/Technical-Test-Dipstrategy/static/media/workflow.8951093fca27a7e0a3c1.png",
+    "static/media/services-1.png": "/Technical-Test-Dipstrategy/static/media/services-1.c66377d556c068f539fa.png",
+    "static/media/app-3.png": "/Technical-Test-Dipstrategy/static/media/app-3.fc980847b4481aea8426.png",
+    "static/media/profil-1.png": "/Technical-Test-Dipstrategy/static/media/profil-1.fc066267a02f91d25649.png",
+    "static/media/profil-4.png": "/Technical-Test-Dipstrategy/static/media/profil-4.8e15fcdf6c02c5343f09.png",
+    "static/media/profil-3.png": "/Technical-Test-Dipstrategy/static/media/profil-3.3f5634873f7fa36abf99.png",
+    "static/media/services-2.png": "/Technical-Test-Dipstrategy/static/media/services-2.2dd4b1479dbee58eb570.png",
+    "static/media/profil-2.png": "/Technical-Test-Dipstrategy/static/media/profil-2.30ad948c2d2014926920.png",
+    "static/media/app-2.png": "/Technical-Test-Dipstrategy/static/media/app-2.1ea74d037f01f18e7d4a.png",
+    "static/media/app-1.png": "/Technical-Test-Dipstrategy/static/media/app-1.72e917150d5ae7d7d15a.png",
+    "static/media/app-4.png": "/Technical-Test-Dipstrategy/static/media/app-4.f7cd380909e4f706a879.png",
+    "static/media/bg2.png": "/Technical-Test-Dipstrategy/static/media/bg2.492f4a66449c908ce820.png",
+    "static/media/bg1.png": "/Technical-Test-Dipstrategy/static/media/bg1.054e5df6a1fa60fe25f3.png",
+    "index.html": "/Technical-Test-Dipstrategy/index.html",
+    "main.679e9880.css.map": "/Technical-Test-Dipstrategy/static/css/main.679e9880.css.map",
+    "main.c489de37.js.map": "/Technical-Test-Dipstrategy/static/js/main.c489de37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679e9880.css",
+    "static/js/main.c489de37.js"
+  ]
+}
